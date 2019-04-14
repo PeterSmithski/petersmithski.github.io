@@ -1,12 +1,21 @@
-## Welcome to GitHub Pages
+## Few words about me
 
-You can use the [editor on GitHub](https://github.com/PeterSmithski/petersmithski.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a 5th year student of electronics and telecommunication. I am interested in programming software, and hardware aswell. But this account was created only for recrutational purposes, and all the projects code You can find here are and will be mostly written in Swift (Sometimes a bit of Obj-C). Enough of introduction, let's get to the projects!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### BK-Valve
 
-### Markdown
+The whole idea of this project was to control the angle in the cars' exhaust sport systems from mobile devices. Both app on iOS, and hardware were created by me. The user is able to manipulate the angle, save his favorite presets and quick launch them. Connection between devices is established by Bluetooth LE. I used following technologies in this projects:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```markdown
+
+- CoreBluetooth
+- CoreData
+- cocoapods
+
+```
+Link to the repo: 
+[BK-Valve repo](https://github.com/PeterSmithski/BK-Valve)
+
 
 ```markdown
 Syntax highlighted code block
