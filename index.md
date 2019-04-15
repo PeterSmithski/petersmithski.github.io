@@ -16,7 +16,7 @@ The whole idea of this project was to control the angle in the cars' exhaust spo
 Link to the repo: 
 [BK-Valve repo](https://github.com/PeterSmithski/BK-Valve)
 ![Config screen](https://i.ibb.co/GvqMh0g/image1-iphone8spacegrey-portrait.png)
-
+![Config screen](https://i.ibb.co/HrhWB5s/image2-iphone8spacegrey-portrait.png)
 
 # MTom
 This project was created for my friend from the university group. This app allows user to turn on/off, mute, control volume,  and balance of remote music amplifier. User is able to connect to the devices by Bluetooth LE, so the of course i used CoreBluetooth.
