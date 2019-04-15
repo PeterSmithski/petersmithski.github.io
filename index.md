@@ -15,7 +15,7 @@ The whole idea of this project was to control the angle in the cars' exhaust spo
 ```
 Link to the repo: 
 [BK-Valve repo](https://github.com/PeterSmithski/BK-Valve)
-![Config screen](https://ibb.co/vxSdtH2)
+![Config screen](https://i.ibb.co/GvqMh0g/image1-iphone8spacegrey-portrait.png)
 
 
 # MTom
