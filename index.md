@@ -22,5 +22,5 @@ Link to the repo:
 This project was created for my friend from the university group. This app allows user to turn on/off, mute, control volume,  and balance of remote music amplifier. User is able to connect to the devices by Bluetooth LE, so the of course i used CoreBluetooth.
 
 Link to the repo: 
-[MTom repo](https://github.com/PeterSmithski/BK-Valve)
+[MTom repo](https://github.com/PeterSmithski/MTom)
 ![Panel](https://i.ibb.co/HxfxFmd/MTom-Mockup.png)
