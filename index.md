@@ -16,39 +16,11 @@ The whole idea of this project was to control the angle in the cars' exhaust spo
 Link to the repo: 
 [BK-Valve repo](https://github.com/PeterSmithski/BK-Valve)
 ![Config screen](https://i.ibb.co/GvqMh0g/image1-iphone8spacegrey-portrait.png)
-![Config screen](https://i.ibb.co/HrhWB5s/image2-iphone8spacegrey-portrait.png)
+![Profiles](https://i.ibb.co/HrhWB5s/image2-iphone8spacegrey-portrait.png)
 
 # MTom
 This project was created for my friend from the university group. This app allows user to turn on/off, mute, control volume,  and balance of remote music amplifier. User is able to connect to the devices by Bluetooth LE, so the of course i used CoreBluetooth.
 
 Link to the repo: 
 [MTom repo](https://github.com/PeterSmithski/BK-Valve)
-![Image](src)
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PeterSmithski/petersmithski.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Panel](https://i.ibb.co/HxfxFmd/MTom-Mockup.png)
